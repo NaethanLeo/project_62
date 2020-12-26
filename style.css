@@ -1,0 +1,34 @@
+container
+{
+    text-align: center;
+}
+body{
+    text-align: center;
+    background-color: aqua;
+}
+#myCarousel{
+    background-color: red;
+}
+#myCarousel img{
+    align-content: center;
+    height: 300px;
+    width: 300px;
+    margin: 35px;
+}
+.carousel-content{
+    color: yellow;
+}
+#images{
+    text-align: center;
+}
+.hello{
+    height: 300px;
+    width: 700px;
+    border-style: dashed;
+    border-width: 5px;
+    
+}
+img{
+    width: 200px;
+    height: 200px;
+}
